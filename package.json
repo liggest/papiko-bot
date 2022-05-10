@@ -35,10 +35,15 @@
     "@koishijs/plugin-adapter-telegram": "^2.2.4",
     "@koishijs/plugin-console": "^3.2.10",
     "@koishijs/plugin-dataview": "^1.2.4",
+    "@koishijs/plugin-echo": "^2.0.0",
     "@koishijs/plugin-logger": "^1.2.2",
     "@koishijs/plugin-manager": "^1.8.0",
     "@koishijs/plugin-sandbox": "^1.1.1",
     "@koishijs/plugin-status": "^5.3.6",
-    "koishi": "^4.6.3"
+    "koishi": "^4.6.3",
+    "koishi-plugin-dice": "1.0.0",
+    "koishi-plugin-dicex": "4.0.6",
+    "koishi-plugin-fortune": "10.0.3",
+    "koishi-plugin-ygocard": "9.0.4"
   }
 }

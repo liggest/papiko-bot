@@ -2,11 +2,14 @@ lib
 dist
 accounts
 
+logs
 node_modules
 npm-debug.log
 yarn-debug.log
 yarn-error.log
 tsconfig.tsbuildinfo
+
+cdb/*
 
 .env
 .eslintcache
@@ -17,3 +20,4 @@ tsconfig.tsbuildinfo
 *.ntvs*
 *.njsproj
 *.sln
+koishi.yml
